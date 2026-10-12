@@ -58,7 +58,7 @@ footer{border-top:1px solid #292929;padding:25px 7%;font-size:12px;color:#888}
 <section>
 <h2>Ready to Explore <span class="red">ESTEEM AI?</span></h2>
 <p>Take the next step and learn more about the platform.</p>
-<a class="button" href="https://YOUR-CPA-LINK-HERE">REGISTER NOW →</a>
+<a class="button" href=https://t.me/+3zNCGDacmtQ3Zjhk"> REGISTER NOW →</a>
 </section>
 
 <footer>
